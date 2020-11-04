@@ -1,9 +1,3 @@
-## Application is available here: (username: example, password: example)
-* SIT - https://investment-calculator.ersa-team.sit.fintechchallenge.pl/
-* UAT - https://investment-calculator.ersa-team.uat.fintechchallenge.pl/
-* PROD - https://investment-calculator.ersa-team.fintechchallenge.pl/
-
-
 ## DESCRIPTION
 
 The backend application for an investment calculator
@@ -47,9 +41,7 @@ Instruction how to start docker database is in section above.
 
 ### API DOCUMENTATION
 API documentation has been created by a swagger tool and available here:
-* SIT - https://investment-calculator.ersa-team.sit.fintechchallenge.pl/api/swagger-ui.html
-* UAT - https://investment-calculator.ersa-team.uat.fintechchallenge.pl/api/swagger-ui.html
-* PROD - https://investment-calculator.ersa-team.fintechchallenge.pl/api/swagger-ui.html
+https://localhost:8080/api/swagger-ui.html
 
 
 ## This is regular application created via spring.io. Have a look at:
